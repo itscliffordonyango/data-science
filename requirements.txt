@@ -4,3 +4,7 @@ pandas
 scikit-learn
 scipy
 numpy
+scikit-learn
+statsmodels
+jupyter
+notebook
